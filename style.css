@@ -1,0 +1,27 @@
+/* *{
+    font-family: fantasy;
+} */
+body{
+    font-size: 24px;
+}
+
+/* #first > p{
+    color: green;
+} */
+
+#first, #second{
+    color: red;
+}
+
+.purple{
+    color: purple !important;
+    font-family: monospace;
+}
+
+.purple:hover{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.highlight{
+    color: aqua;
+}
