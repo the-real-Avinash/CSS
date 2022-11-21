@@ -1,0 +1,50 @@
+.container{
+    width: 400px;
+    height: 400px;
+    border: 2px solid red;
+    background-color: gainsboro;
+    /* overflow: hidden; */
+    /* overflow: scroll; */
+    /* overflow: auto; */
+}
+
+.image1{
+    /* float: left; */
+    float: right;
+}
+.image2{
+    float: left;
+}
+
+/* .block1{
+    overflow: auto;
+} */
+
+.p2{
+    clear: both;
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    overflow: auto;
+    border: 2px solid blue;
+}
+
+.b1{
+    background-color: red;
+    float: left;
+}
+
+.b2{
+    background-color: green;
+    /* float: left; */
+}
+
+.b3{
+    background-color: yellow;
+}
+
+.b4{
+    background-color: black;
+}
